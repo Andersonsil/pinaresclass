@@ -1,13 +1,19 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 h1 {
+    font-size: 120%;
     color: blueviolet;
 }
 
 .one {
+    font-size: 2rem;
     color: blue;
 
 }
 
 #one {
+    font-size: 2em;
     color:#E75A7C;
 }
 
